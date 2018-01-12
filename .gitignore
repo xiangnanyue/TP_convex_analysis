@@ -1,3 +1,4 @@
 *.djvu
 *.jpg
-
+metastore_db/
+Spark_tutorial/
