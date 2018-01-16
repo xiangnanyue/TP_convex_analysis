@@ -1,4 +1,3 @@
-.gitignore
 *.djvu
 *.jpg
 metastore_db/
